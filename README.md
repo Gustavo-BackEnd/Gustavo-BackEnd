@@ -1,5 +1,10 @@
 ### Olá! Eu sou o Gustavo Alves 🧙
-👨‍🎓 Estudante Back-End 
+
+-👨‍🎓 Estudante Programação (Back-End)
+
+-👩‍💻 Atualmente atuando como Designer Gráfico (AM Painéis)
+
+-👩‍👦 Pai e Esposo
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-BackEnd&show_icons=true&theme=highcontrast)
 
@@ -12,3 +17,5 @@
   <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
