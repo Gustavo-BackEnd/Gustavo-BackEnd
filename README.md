@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Alves 🧙
 
--👨‍🎓 Estudante Programação (DEV Back-End - Anhamguera)
+-👨‍🎓 Estudante Programação (DEV Back-End - Anhanguera)
 
 -👩‍💻 Atualmente atuando como Designer Gráfico (AM Painéis)
 
