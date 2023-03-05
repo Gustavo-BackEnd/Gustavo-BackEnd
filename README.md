@@ -2,7 +2,7 @@
 
 -👨‍🎓 Estudante Programação (ADS - Uninter)
 
--👩‍💻 Atualmente atuando como Designer Gráfico (AM Painéis)
+-👩‍💻 Atualmente atuando como Designer Gráfico (Autônomo)
 
 -👩‍👦 Pai e Esposo
 
