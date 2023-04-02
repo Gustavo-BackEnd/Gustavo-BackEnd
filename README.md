@@ -10,8 +10,8 @@
 - 🌱 &nbsp; Aprendendo mais sobre Programação.
 
 <a href="https://github.com/Gustavo-BackEnd">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustavo-BackEnd&theme=dracula&hide=true" />
-  <img align="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-BackEnd&theme=dracula&hide_langs_below=1" />
+    <img align="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-BackEnd&theme=dracula&hide_langs_below=1" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustavo-BackEnd&theme=dracula&hide=true" />
 </a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
