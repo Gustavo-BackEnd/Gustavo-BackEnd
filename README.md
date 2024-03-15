@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Gustavo-BackEnd&color=006bed)
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/graduacao-ead/?msclkid=16ca7f0dd63813ceb2bf1b18f728efd4&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=Uninter%20EAD&utm_content=Uninter%20(Novo)">Uninter</a>.
+- 🎓 &nbsp; Estudando Engenharia de Software en <a href="[https://www.uninter.com/graduacao-ead/?](https://estacio.br/)msclkid=16ca7f0dd63813ceb2bf1b18f728efd4&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=Uninter%20EAD&utm_content=Uninter%20(Novo)">Estácio</a>.
 - 💼 &nbsp; Trabalhando como Designer Gráfico na <a href="(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/NQFTTPAOXB7LK1/)">HG Comunicação Visual</a>
 - 🌱 &nbsp; Aprendendo mais sobre Programação.
 
